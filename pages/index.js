@@ -200,7 +200,7 @@ const Home = () => {
             <div className={styles.instanceParent}>
               <div className={styles.discordParent}>
                 <img className={styles.discordIcon} alt="" src="/discord.svg" />
-                <div className={styles.webDesignerAnd}>!Alisiia#3519</div>
+                <div className={styles.webDesignerAnd}>!Alisiia#1889</div>
               </div>
               <div className={styles.discordParent}>
                 <img className={styles.discordIcon} alt="" src="/email.svg" />
